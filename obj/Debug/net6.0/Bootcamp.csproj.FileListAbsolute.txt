@@ -1,0 +1,15 @@
+C:\projetos\Bootcamp\bin\Debug\net6.0\Bootcamp.exe
+C:\projetos\Bootcamp\bin\Debug\net6.0\Bootcamp.deps.json
+C:\projetos\Bootcamp\bin\Debug\net6.0\Bootcamp.runtimeconfig.json
+C:\projetos\Bootcamp\bin\Debug\net6.0\Bootcamp.dll
+C:\projetos\Bootcamp\bin\Debug\net6.0\Bootcamp.pdb
+C:\projetos\Bootcamp\obj\Debug\net6.0\Bootcamp.csproj.AssemblyReference.cache
+C:\projetos\Bootcamp\obj\Debug\net6.0\Bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Bootcamp\obj\Debug\net6.0\Bootcamp.AssemblyInfoInputs.cache
+C:\projetos\Bootcamp\obj\Debug\net6.0\Bootcamp.AssemblyInfo.cs
+C:\projetos\Bootcamp\obj\Debug\net6.0\Bootcamp.csproj.CoreCompileInputs.cache
+C:\projetos\Bootcamp\obj\Debug\net6.0\Bootcamp.dll
+C:\projetos\Bootcamp\obj\Debug\net6.0\refint\Bootcamp.dll
+C:\projetos\Bootcamp\obj\Debug\net6.0\Bootcamp.pdb
+C:\projetos\Bootcamp\obj\Debug\net6.0\Bootcamp.genruntimeconfig.cache
+C:\projetos\Bootcamp\obj\Debug\net6.0\ref\Bootcamp.dll
