@@ -2,12 +2,13 @@ namespace Bootcamp.Entities
 {
     public class Wizard : Hero
     {
-        public Wizard(string Name, int Level, string HeroType)
+        public Wizard(string Name, int Level, string HeroType) : base(Name, Level, HeroType)
         {
             this.Name  = Name;
             this.Level = Level;
             this.HeroType = HeroType;
         }
+           
 
         public override string ToString()
         {
@@ -16,7 +17,16 @@ namespace Bootcamp.Entities
 
         public string Attack(int Bonus)
         {
-            return this.Name + " Lançou Magia com bonus de ataque de " + Bonus;
+            if (Bonus > 6)
+            {
+                return this.Name + " Lançou Magia super efetiva com bonus de " + Bonus;
+            }
+            else
+            {
+                return this.Name + " Lançou Magia fraca com bonus de " + Bonus;
+            }
+
+            
         }
     }
 }

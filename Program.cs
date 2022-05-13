@@ -6,11 +6,11 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Hero arus = new Hero("Arus", 23, "Knight");
+            Knight arus = new Knight("Arus", 23, "Knight");
             Wizard wizard = new Wizard("Jennica", 25, "White Wazard");
 
             Console.WriteLine(arus.Attack());
-            Console.WriteLine(wizard.Attack());
+            Console.WriteLine(wizard.Attack(7));
 
         }
     }

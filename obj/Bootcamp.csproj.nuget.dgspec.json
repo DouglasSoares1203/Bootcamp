@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\projetos\\Bootcamp\\Bootcamp.csproj": {}
+    "C:\\projetos\\Bootcamp\\Bootcamp.csproj": {}
   },
   "projects": {
-    "c:\\projetos\\Bootcamp\\Bootcamp.csproj": {
+    "C:\\projetos\\Bootcamp\\Bootcamp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\projetos\\Bootcamp\\Bootcamp.csproj",
+        "projectUniqueName": "C:\\projetos\\Bootcamp\\Bootcamp.csproj",
         "projectName": "Bootcamp",
-        "projectPath": "c:\\projetos\\Bootcamp\\Bootcamp.csproj",
+        "projectPath": "C:\\projetos\\Bootcamp\\Bootcamp.csproj",
         "packagesPath": "C:\\Users\\DOUGLAS\\.nuget\\packages\\",
-        "outputPath": "c:\\projetos\\Bootcamp\\obj\\",
+        "outputPath": "C:\\projetos\\Bootcamp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DOUGLAS\\AppData\\Roaming\\NuGet\\NuGet.Config",
