@@ -1,8 +1,13 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
 namespace Bootcamp.Entities
 {
-    public class Hero
+    public class Monster
     {
-        public Hero(string Name, int Level, string HeroType, int Life, int MagicPoint)
+        public Monster(string Name, int Level, string HeroType, int Life, int MagicPoint)
         {
             this.Name = Name;
             this.Level = Level;
@@ -11,14 +16,7 @@ namespace Bootcamp.Entities
             this.MagicPoint = MagicPoint;
         }
 
-        public Hero(string name, int level, string heroType)
-        {
-            Name = name;
-            Level = level;
-            HeroType = heroType;
-        }
-
-        public string Name;
+            public string Name;
             public int Level;
             public string HeroType;
             public int Life;
@@ -34,7 +32,5 @@ namespace Bootcamp.Entities
         {
             return this.Name + " Atacou com uma espada ";
         }
-
-       
     }
 }
